@@ -37,7 +37,7 @@ A geospatial and statistical analysis project assessing climate vulnerability ac
 - Produced interactive maps and dashboards  
 
 🔗 *Repo:* **Climate Vulnerability Analysis**  
-(Insert your repo link here)
+(https://github.com/bmpofu-create/Climate-Vulnerability--Analaysis)
 
 ---
 
