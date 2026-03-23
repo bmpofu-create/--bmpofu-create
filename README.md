@@ -74,7 +74,7 @@ Hands‑on deep learning experiments using TensorFlow and PyTorch.
 - Hyperparameter tuning and model optimization  
 - GPU‑accelerated training workflows  
 
-🔗 **Repo:** *(Insert your Deep Learning repo link)*
+🔗 **Repo:** *https://github.com/bmpofu-create/Deep-Learning-Projects)*
 
 ---
 
