@@ -98,7 +98,7 @@ A structured sandbox for continuous learning, experimentation, and skill sharpen
 - Organized folders for data, images, plots, reports, and scripts  
 - Demonstrates curiosity, consistency, and strong fundamentals — qualities recruiters value  
 
-🔗 **Repo:** *(Insert your Learning & Practice repo link)*
+🔗 **Repo:** *https://github.com/bmpofu-create/Learning-and-Practice*
 
 ---
 
