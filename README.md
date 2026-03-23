@@ -1,7 +1,7 @@
 
 #  **Beven Mpofu — Data Scientist |Data Analyst| Statistician | MEARL| ML & AI Practitioner**
 
-Welcome to my GitHub! I’m a Data Scientist and Senior Statistician in training with strong foundations in **predictive modelling**, **machine learning**, **deep learning**, **advanced data mining**, and **LLM**.  
+Welcome to my GitHub! I’m a Data Scientist and  ML & AI Practioner in training with strong foundations in **predictive modelling**, **machine learning**, **deep learning**, **advanced data mining**, and **LLM**.  
 I specialize in transforming complex datasets into **actionable insights**, **robust models**, and **scalable analytical solutions** that support real‑world decision‑making.
 
 ---
