@@ -50,7 +50,7 @@ A collection of ML workflows demonstrating breadth across supervised and unsuper
 - Feature engineering and model interpretability (SHAP, permutation importance)  
 - Clean, modular, and reproducible structure  
 
-🔗 **Repo:** *(Insert your repo link)*
+🔗 **Repo:** *https://github.com/bmpofu-create/Machine-Learning*
 
 ---
 
