@@ -43,7 +43,7 @@ A geospatial and statistical modelling project assessing climate vulnerability a
 
 ---
 
-## **2. Machine Learning Projects**
+## **2. Machine Learning **
 A collection of ML workflows demonstrating breadth across supervised and unsupervised learning.  
 **Highlights:**  
 - End‑to‑end pipelines with preprocessing, tuning, and evaluation  
