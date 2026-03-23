@@ -86,7 +86,7 @@ A comprehensive repository showcasing advanced pattern‑mining and clustering t
 - Dimensionality reduction (PCA, t‑SNE)  
 - Anomaly detection and sequence mining  
 
-🔗 **Repo:** *(Insert your Advanced Data Mining repo link)*
+🔗 **Repo:** *https://github.com/bmpofu-create/Adavanced-Data-Mining*
 
 ---
 
