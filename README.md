@@ -62,7 +62,7 @@ Statistical and ML‑based prediction projects applied to real‑world business 
 - KPI modelling for MEL systems  
 - Transparent documentation of assumptions, formulas, and evaluation metrics  
 
-🔗 **Repo:** *(Insert your repo link)*
+🔗 **Repo:** *(Insert your repo link)](https://github.com/bmpofu-create/Predictive-Modelling)*
 
 ---
 
