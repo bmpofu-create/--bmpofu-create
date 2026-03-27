@@ -30,7 +30,7 @@ I specialize in transforming complex datasets into **actionable insights**, **ro
 ---
 
 #  **Featured Projects**
-## **1. Machine Learning **
+## **1. Machine Learning**
 A collection of ML workflows demonstrating breadth across supervised and unsupervised learning.   
 - Hands‑on deep learning experiments using TensorFlow and PyTorch.  
 **Highlights:**  
