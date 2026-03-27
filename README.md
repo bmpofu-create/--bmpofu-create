@@ -44,13 +44,14 @@ A geospatial and statistical modelling project assessing climate vulnerability a
 ---
 
 ## **2. Machine Learning **
-A collection of ML workflows demonstrating breadth across supervised and unsupervised learning.  
+A collection of ML workflows demonstrating breadth across supervised and unsupervised learning.   
+- Hands‑on deep learning experiments using TensorFlow and PyTorch.  
 **Highlights:**  
-- End‑to‑end pipelines with preprocessing, tuning, and evaluation  
-- Feature engineering and model interpretability (SHAP, permutation importance)  
-- Clean, modular, and reproducible structure  
-
-🔗 **Repo:** *https://github.com/bmpofu-create/Machine-Learning*
+- Image classification with CNNs and transfer learning  
+- Text classification using RNNs, LSTMs, and Transformers  
+- Hyperparameter tuning and model optimization  
+- GPU‑accelerated training workflows 
+🔗 **Repo:** *https://github.com/bmpofu-create/Machine-Learning-5841*
 
 ---
 
@@ -64,17 +65,6 @@ Statistical and ML‑based prediction projects applied to real‑world business 
 
 🔗 **Repo:** *https://github.com/bmpofu-create/Predictive-Modelling*
 
----
-
-##  **4. Deep Learning**
-Hands‑on deep learning experiments using TensorFlow and PyTorch.  
-**Highlights:**  
-- Image classification with CNNs and transfer learning  
-- Text classification using RNNs, LSTMs, and Transformers  
-- Hyperparameter tuning and model optimization  
-- GPU‑accelerated training workflows  
-
-🔗 **Repo:** *https://github.com/bmpofu-create/Deep-Learning-Projects)*
 
 ---
 
