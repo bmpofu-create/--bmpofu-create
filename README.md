@@ -30,20 +30,7 @@ I specialize in transforming complex datasets into **actionable insights**, **ro
 ---
 
 #  **Featured Projects**
-
-##  **1. Climate Vulnerability Analysis**
-A geospatial and statistical modelling project assessing climate vulnerability across global regions.  
-**Highlights:**  
-- Integrated climate, environmental, and socioeconomic datasets  
-- Built clustering models to identify high‑risk zones  
-- Designed reproducible pipelines for cleaning, feature engineering, and spatial analysis  
-- Produced interactive maps and dashboards for decision‑makers  
-
-🔗 **Repo:** https://github.com/bmpofu-create/Climate-Vulnerability--Analaysis
-
----
-
-## **2. Machine Learning **
+## **1. Machine Learning **
 A collection of ML workflows demonstrating breadth across supervised and unsupervised learning.   
 - Hands‑on deep learning experiments using TensorFlow and PyTorch.  
 **Highlights:**  
@@ -52,6 +39,16 @@ A collection of ML workflows demonstrating breadth across supervised and unsuper
 - Hyperparameter tuning and model optimization  
 - GPU‑accelerated training workflows 
 🔗 **Repo:** *https://github.com/bmpofu-create/Machine-Learning-5841*
+---
+##  **2. Climate Vulnerability Analysis**
+A geospatial and statistical modelling project assessing climate vulnerability across global regions.  
+**Highlights:**  
+- Integrated climate, environmental, and socioeconomic datasets  
+- Built clustering models to identify high‑risk zones  
+- Designed reproducible pipelines for cleaning, feature engineering, and spatial analysis  
+- Produced interactive maps and dashboards for decision‑makers  
+
+🔗 **Repo:** https://github.com/bmpofu-create/Climate-Vulnerability--Analaysis
 
 ---
 
@@ -68,7 +65,7 @@ Statistical and ML‑based prediction projects applied to real‑world business 
 
 ---
 
-##  **5. Advanced Data Mining**
+##  **4. Advanced Data Mining**
 A comprehensive repository showcasing advanced pattern‑mining and clustering techniques.  
 **Highlights:**  
 - Association rule mining (support, confidence, lift)  
@@ -80,7 +77,7 @@ A comprehensive repository showcasing advanced pattern‑mining and clustering t
 
 ---
 
-##  **6. Learning & Practice**
+##  **5. Learning & Practice**
 A structured sandbox for continuous learning, experimentation, and skill sharpening.  
 **Highlights:**  
 - Practice notebooks across ML, DL, statistics, and data engineering  
